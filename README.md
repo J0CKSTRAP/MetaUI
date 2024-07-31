@@ -3,7 +3,8 @@
 
 
 
-![image-removebg-preview (11)](https://github.com/user-attachments/assets/9f01ac8a-49b4-4710-8a46-d2a549db0425)
+![metaui](https://github.com/user-attachments/assets/637ad224-8a54-456d-9fbd-c20e59608a6d)
+
 
 # Getting MetaUI 
 
